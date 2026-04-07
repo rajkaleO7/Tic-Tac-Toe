@@ -42,13 +42,11 @@ You will need [Node.js](https://nodejs.org/) installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/cosmic-tic-tac-toe.git](https://github.com/your-username/cosmic-tic-tac-toe.git)
+   git clone git@github.com:rajkaleO7/Tic-Tac-Toe.git
    ```
 
 2. **Navigate to the project directory:**
-   ```bash
-   cd cosmic-tic-tac-toe
-   ```
+
 
 3. **Install the dependencies:**
    ```bash
